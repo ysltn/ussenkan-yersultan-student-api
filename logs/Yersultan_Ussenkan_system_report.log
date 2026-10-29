@@ -1,0 +1,54 @@
+==================================================
+SYSTEM REPORT
+Student: Ussenkan Yersultan
+Date and Time: Thu Oct 29 15:19:23 +05 2026
+Current Username: ers
+--------------------------------------------------
+Operating System & Kernel:
+Darwin MacBook-Pro-Yersultan.local 25.6.0 Darwin Kernel Version 25.6.0: Fri Jul 31 19:18:48 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T6020 arm64
+--------------------------------------------------
+CPU Information:
+Apple M2 Pro
+--------------------------------------------------
+Memory Information:
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     3829.
+Pages active:                                 171045.
+Pages inactive:                               169267.
+Pages speculative:                               609.
+Pages throttled:                                   0.
+Pages wired down:                             169477.
+Pages purgeable:                                  10.
+"Translation faults":                     2994476611.
+Pages copy-on-write:                        45761399.
+Pages zero filled:                        1864922922.
+Pages reactivated:                         251062102.
+Pages purged:                               79855422.
+File-backed pages:                            122681.
+Anonymous pages:                              218240.
+Pages stored in compressor:                  1565243.
+Pages occupied by compressor:                 494487.
+Decompressions:                            764716219.
+Compressions:                              818909775.
+Pageins:                                   122368242.
+Pageouts:                                    8248077.
+Swapins:                                      768375.
+Swapouts:                                    1137278.
+--------------------------------------------------
+Disk Usage:
+Filesystem                                     Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s3s1                                460Gi    12Gi   105Gi    11%    459k  1.1G    0%   /
+devfs                                         210Ki   210Ki     0Bi   100%     728     0  100%   /dev
+/dev/disk3s6                                  460Gi   3.0Gi   105Gi     3%       3  1.1G    0%   /System/Volumes/VM
+/dev/disk3s4                                  460Gi   8.4Gi   105Gi     8%    1.4k  1.1G    0%   /System/Volumes/Preboot
+/dev/disk3s2                                  460Gi    41Mi   105Gi     1%     110  1.1G    0%   /System/Volumes/Update
+/dev/disk1s2                                  500Mi   6.0Mi   481Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1                                  500Mi   5.6Mi   481Mi     2%      31  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                  500Mi   2.4Mi   481Mi     1%      70  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s1                                  460Gi   331Gi   105Gi    76%    1.8M  1.1G    0%   /System/Volumes/Data
+map auto_home                                   0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/dev/disk5s1                                   16Gi    16Gi   436Mi    98%    607k  4.5M   12%   /Library/Developer/CoreSimulator/Volumes/iOS_23C54
+/dev/disk7s1                                   17Gi    16Gi   444Mi    98%    626k  4.5M   12%   /Library/Developer/CoreSimulator/Volumes/iOS_23E254a
+/Users/ers/Downloads/Visual Studio Code.app   460Gi   237Gi   200Gi    55%    1.7M  2.1G    0%   /private/var/folders/c2/4scf1xy149l_bbc5lv8wgbj00000gn/T/AppTranslocation/6854E19D-CC2D-4BCF-96A5-859C62EA3D72
+==================================================
+
